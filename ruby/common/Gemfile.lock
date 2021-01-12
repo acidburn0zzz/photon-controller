@@ -8,7 +8,7 @@ GEM
     json (1.8.3)
     multi_json (1.7.7)
     multipart-post (1.2.0)
-    netaddr (1.5.0)
+    netaddr (2.0.4)
     rake (10.1.0)
     rspec (2.14.1)
       rspec-core (~> 2.14.0)
@@ -35,7 +35,7 @@ PLATFORMS
 DEPENDENCIES
   faraday (~> 0.8.7)
   json (~> 1.8)
-  netaddr (~> 1.5.0)
+  netaddr (~> 2.0.4)
   rake (~> 10)
   rspec (~> 2.14)
   rspec_junit_formatter (~> 0.1.6)
